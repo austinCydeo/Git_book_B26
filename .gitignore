@@ -1,5 +1,4 @@
 .idea
 *.iml
 out
-page1.txt
-src/chapter1/new11.txt
+src/chapter1/page1.txt
